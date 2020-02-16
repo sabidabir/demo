@@ -1,0 +1,53 @@
+body {
+	background: #ded6d669
+}
+div {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background: white;
+    padding: 50px;
+    text-align: center;
+}
+img	{
+	max-width: 100%
+
+	
+}
+h1{
+
+font-size: 40px;
+
+margin-top: 0;
+
+}
+span{
+
+color: seagreen;
+
+text-transform: uppercase;
+
+text-shadow: 5px 5px 5px #90828240;
+}
+
+p{
+	
+font-size: 20px;
+	
+font-family: none;
+	
+text-decoration: wavy;
+	
+font-weight: 100;
+	
+line-height: 1.6;
+	
+text-align: justify;
+}
+.mn{
+    color: red;
+
+}
+.ab {
+	height: 500px;
+}
